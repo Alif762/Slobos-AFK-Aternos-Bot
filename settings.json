@@ -1,13 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Lightb",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Lightb",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SimpleSmp-q86X.aternos.me
+    ",
+    "port": 38860,
     "version": "",
     "try-creative": false
   },
